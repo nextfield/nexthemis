@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="assets/logo.png" alt="nextfield logo" width="200">
+</p>
+
 # nexthemis
 
 **Echtzeit-Systemwächter und Transparenz-Audit für KI- und Agent-Aktivitäten unter Windows.**
