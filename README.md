@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/Logo_N.png" alt="nextfield logo" width="180">
 </p>
 
