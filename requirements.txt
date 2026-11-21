@@ -1,0 +1,6 @@
+watchdog
+psutil
+pystray
+pillow
+winotify
+pyinstaller

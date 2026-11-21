@@ -1,0 +1,17 @@
+# Python & Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller Build-Artefakte
+build/
+dist/
+*.spec
+
+# Lokale Audit-Logs & Reports
+*.log
+nexthemis_report_*.txt
+
+# IDE
+.vscode/
