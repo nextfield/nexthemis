@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="assets/logo.png" alt="nextfield logo" width="200">
+  <img src="assets/Logo_N" alt="nextfield logo" width="180">
 </p>
 
 # nexthemis
