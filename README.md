@@ -12,6 +12,18 @@ Ein Open-Source-Projekt von **nextfield** ([www.nextfield.de](https://www.nextfi
 
 ---
 
+## 🚀 Download-Counter
+<div align="left">
+
+[![GitHub All Releases Download-Anzahl](https://img.shields.io/github/downloads/nextfield/nexthemis/total?style=flat-square&logo=github&color=00d2ff)](https://github.com/nextfield/nexthemis/releases)
+[![GitHub Release (latest by date)](https://img.shields.io/github/v/release/nextfield/nexthemis?style=flat-square&color=2ea043)](https://github.com/nextfield/nexthemis/releases/latest)
+
+</div>
+
+*Entwickelt als Teil der **nextfield**-Infrastruktur.*
+
+---
+
 ## Kernfunktionen
 
 * **Echtzeit-Dateisystem-Überwachung (`watchdog`):** Überwacht relevante Benutzer- und AppData-Verzeichnisse ereignisbasiert über das Windows-Dateisystem auf neu erstellte oder beschriebene KI-Logs (`.log`, `.json`, `.jsonl`) sowie lokale Vektor-Speicher (`.sqlite`, `.sqlite3`, `.db`).
